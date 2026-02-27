@@ -47,13 +47,6 @@
 
 ---
 
-### 📊 Github Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithkhan07&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="codewithkhan07" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codewithkhan07&show_icons=true&locale=en&theme=vision-friendly-dark" alt="codewithkhan07" />
-</p>
-
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithkhan07&theme=vision-friendly-dark" alt="codewithkhan07" />
 </p>
