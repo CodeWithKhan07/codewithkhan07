@@ -16,8 +16,18 @@
 - 📱 Specialized in building high-performance mobile applications using **Flutter & Dart**.
 - 🏗️ Deep expertise in **GetX** for State Management and Dependency Injection.
 - 🔥 Skilled in **Firebase** ecosystem (Auth, Firestore, Messaging, Storage).
-- 📦 Experience with local databases like **Hive** and **GetStorage** for "Offline-First" apps.
+- 📦 Experience with local databases like **Sqflite**, **Hive**, and **GetStorage** for "Offline-First" apps.
 - 🚀 Currently focusing on building scalable real-time chat systems and clean architecture.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**WeChat**](https://github.com/CodeWithKhan07/wechat) | A real-time chat application featuring instant messaging, user authentication, and profile management. | Flutter, GetX, Firebase |
+| [**Tasky**](https://github.com/CodeWithKhan07/tasky) | An offline-first task management app with local data persistence and scheduled reminders via notifications. | Flutter, GetX, Sqflite |
+| [**Flux-Walls**](https://github.com/CodeWithKhan07/Flux-Walls) | A premium wallpaper application with high-quality image categories and a sleek, modern UI. | Flutter, Dart, REST API |
 
 ---
 
@@ -55,7 +65,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/shahzaib-khan-34912036a" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shahzaibkhan3356@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
 </p>
 
 <p align="center">
