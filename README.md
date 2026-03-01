@@ -1,32 +1,16 @@
+<h1 align="center">Hi 👋, I'm Shahzaib Khan</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=438AFE&height=200&section=header&text=SHAHZAIB%20KHAN&fontSize=80&animation=fadeIn&fontAlignY=45" width="100%" />
+  <strong>Passionate Mobile App Developer from Pakistan 🇵🇰</strong>
 </p>
-
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=438AFE&center=true&vCenter=true&width=600&height=50&lines=Hey+there,+stalker!+👀;Building+the+future+of+mobile+🚀;GetX+is+my+superpower+🏗️;Currently+crafting+Vidly+⏬" alt="Typing SVG" />
-  </a>
-</h2>
-
-<p align="center">
-  <strong>Mobile App Developer | Pakistan 🇵🇰</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open_To_Work-YES-438AFE?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/codewithkhan07?label=Followers&style=for-the-badge&color=white&logo=github" />
-</p>
-
----
 
 ### 👨‍💻 About Me
 
-- 📱 **Specialized** in building high-performance mobile applications using **Flutter & Dart**.
-- 🏗️ **Deep expertise** in **GetX** for state management and dependency injection.
-- ⏬ **Currently Building**: **Vidly** — A high-performance media downloader with real-time notifications.
-- 🔥 **Skilled** in the **Firebase** ecosystem (Auth, Firestore, Messaging, Storage).
-- 📦 **Offline-First** expert using **Hive**, **Sqflite**, and **GetStorage** for smooth data persistence.
-- 🚀 **Goal**: Building scalable architectures and premium user experiences.
+- 📱 Specialized in building high-performance mobile applications using **Flutter & Dart**.
+- 🏗️ Deep expertise in **GetX** for State Management and Dependency Injection.
+- ⏬ **Currently Building**: [**Vidly**](https://github.com/CodeWithKhan07/Vidly) — A premium media downloader with real-time progress notifications.
+- 🔥 Skilled in **Firebase** ecosystem (Auth, Firestore, Messaging, Storage).
+- 📦 Experience with local databases like **Sqflite**, **Hive**, and **GetStorage** for "Offline-First" apps.
+- 🚀 Currently focusing on building scalable real-time chat systems and clean architecture.
 
 ---
 
@@ -34,14 +18,14 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/GetX-438AFE?style=for-the-badge&logo=getx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <br>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hive-FFD700?style=for-the-badge&logo=hive&logoColor=black" />
 </p>
 
 ---
@@ -50,18 +34,17 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| ⏬ [**Vidly**](https://github.com/CodeWithKhan07/Vidly) | **Premium Downloader** with real-time progress notifications and 1080p extraction. | Flutter, GetX, Awesome Notifications |
-| 💬 [**WeChat**](https://github.com/CodeWithKhan07/wechat) | Real-time chat application featuring instant messaging and Firebase integration. | Flutter, GetX, Firebase |
-| ✅ [**Tasky**](https://github.com/CodeWithKhan07/tasky) | Offline-first task manager with local persistence and scheduled reminders. | Flutter, GetX, Sqflite |
-| 🖼️ [**Flux-Walls**](https://github.com/CodeWithKhan07/Flux-Walls) | A premium wallpaper application with high-quality categories and a sleek, modern UI. | Flutter, Dart, REST API |
+| ⏬ [**Vidly**](https://github.com/CodeWithKhan07/Vidly) | A premium media downloader featuring real-time progress notifications and 1080p extraction. | Flutter, GetX, Awesome Notifications |
+| 💬 [**WeChat**](https://github.com/CodeWithKhan07/wechat) | A real-time chat application featuring instant messaging, user authentication, and profile management. | Flutter, GetX, Firebase |
+| ✅ [**Tasky**](https://github.com/CodeWithKhan07/tasky) | An offline-first task management app with local data persistence and scheduled reminders via notifications. | Flutter, GetX, Sqflite |
+| 🖼️ [**Flux-Walls**](https://github.com/CodeWithKhan07/Flux-Walls) | A premium wallpaper application with high-quality image categories and a sleek, modern UI. | Flutter, Dart, REST API |
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codewithkhan07&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithkhan07&theme=vision-friendly-dark&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithkhan07&theme=vision-friendly-dark" alt="codewithkhan07" />
 </p>
 
 ---
@@ -74,5 +57,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=438AFE&height=100&section=footer" width="100%"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithkhan07&theme=darkhub" alt="codewithkhan07" /></a>
 </p>
