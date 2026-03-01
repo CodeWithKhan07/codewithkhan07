@@ -3,6 +3,16 @@
   <strong>Passionate Mobile App Developer from Pakistan 🇵🇰</strong>
 </p>
 
+### 👨‍💻 About Me
+
+- 📱 Specialized in building high-performance mobile applications using **Flutter & Dart**.
+- 🏗️ Deep expertise in **GetX** for State Management and Dependency Injection.
+- 🔥 Skilled in **Firebase** ecosystem (Auth, Firestore, Messaging, Storage).
+- 📦 Experience with local databases like **Sqflite**, **Hive**, and **GetStorage** for "Offline-First" apps.
+- 🚀 Currently focusing on building scalable real-time chat systems and clean architecture.
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -16,16 +26,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### 👨‍💻 About Me
-
-- 📱 Specialized in building high-performance mobile applications using **Flutter & Dart**.
-- 🏗️ Deep expertise in **GetX** for State Management and Dependency Injection.
-- 🔥 Skilled in **Firebase** ecosystem (Auth, Firestore, Messaging, Storage).
-- 📦 Experience with local databases like **Sqflite**, **Hive**, and **GetStorage** for "Offline-First" apps.
-- 🚀 Currently focusing on building scalable real-time chat systems and clean architecture.
 
 ---
 
