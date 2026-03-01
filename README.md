@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=438AFE&center=true&vCenter=true&width=435&lines=Shahzaib+Khan;Flutter+Developer;GetX+Specialist" alt="Typing SVG" /></a></h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=438AFE&height=200&section=header&text=SHAHZAIB%20KHAN&fontSize=80&animation=fadeIn&fontAlignY=45" width="100%" />
+</p>
+
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=438AFE&center=true&vCenter=true&width=600&height=50&lines=Hey+there,+stalker!+👀;Building+the+future+of+mobile+🚀;GetX+is+my+superpower+🏗️;Currently+crafting+Vidly+⏬" alt="Typing SVG" />
+  </a>
+</h2>
 
 <p align="center">
-  <strong>Passionate Mobile App Developer from Pakistan 🇵🇰</strong>
+  <strong>Mobile App Developer | Pakistan 🇵🇰</strong>
 </p>
 
 <p align="center">
@@ -42,10 +50,10 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| ⏬ [**Vidly**](https://github.com/CodeWithKhan07/Vidly) | **Premium Downloader** with real-time progress notifications and 1080p video extraction. | Flutter, GetX, Awesome Notifications |
+| ⏬ [**Vidly**](https://github.com/CodeWithKhan07/Vidly) | **Premium Downloader** with real-time progress notifications and 1080p extraction. | Flutter, GetX, Awesome Notifications |
 | 💬 [**WeChat**](https://github.com/CodeWithKhan07/wechat) | Real-time chat application featuring instant messaging and Firebase integration. | Flutter, GetX, Firebase |
 | ✅ [**Tasky**](https://github.com/CodeWithKhan07/tasky) | Offline-first task manager with local persistence and scheduled reminders. | Flutter, GetX, Sqflite |
-| 🖼️ [**Flux-Walls**](https://github.com/CodeWithKhan07/Flux-Walls) | Premium wallpaper app with high-quality categories and a modern UI. | Flutter, Dart, REST API |
+| 🖼️ [**Flux-Walls**](https://github.com/CodeWithKhan07/Flux-Walls) | A premium wallpaper application with high-quality categories and a sleek, modern UI. | Flutter, Dart, REST API |
 
 ---
 
@@ -63,10 +71,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/shahzaib-khan-34912036a" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shahzaibkhan3356@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithkhan07&theme=darkhub" alt="codewithkhan07" /></a>
 </p>
 
 <p align="center">
