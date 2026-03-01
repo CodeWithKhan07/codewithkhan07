@@ -7,6 +7,10 @@
   <img src="https://komarev.com/ghpvc/?username=codewithkhan07&label=Profile%20views&color=0e75b6&style=flat-square" alt="codewithkhan07" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 ---
