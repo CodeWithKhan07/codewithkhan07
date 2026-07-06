@@ -13,19 +13,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### 📖 The Short Version
 
-- 📱 Building **production-grade** mobile apps with **Flutter & Dart** — from concept to App Store.
-- ⚡ State management: **GetX** (personal & rapid-build projects) and **Riverpod** (current professional stack).
-- 🏗️ Deep focus on **clean architecture** — MVVM, SOLID principles, abstract repos, typed sealed states.
-- 💼 Currently building server-driven UI systems for a mobility-platform app in production.
-- 🔥 Firebase ecosystem end-to-end: Auth, Firestore, Messaging, Storage.
-- 📦 Local-first architecture with **Hive**, **Sqflite**, and **GetStorage**.
-- 🌱 Currently exploring scalable real-time systems and AI-assisted dev workflows.
+I write Flutter code for a living, and I like it enough that I also write it for fun. Professionally, that means shipping **production-grade** apps end-to-end — concept to App Store — on a stack built around **Riverpod**, clean architecture, and enough SOLID discipline to keep a codebase sane six months later. Right now that's showing up in server-driven UI systems for a mobility-platform app, where entire screens live as JSON on the backend and the app just... renders whatever it's told.
+
+Off the clock, my tool of choice flips to **GetX** — faster to prototype with, less ceremony, perfect for the personal projects where I want an idea working by the weekend instead of by the sprint. Between the two, I've ended up equally comfortable in whichever architecture a codebase actually needs, which turns out to be a more useful skill than being loyal to one framework.
+
+That range is also what pulled me toward Firebase early on — Auth, Firestore, Messaging, Storage — and toward local-first patterns with Hive, Sqflite, and GetStorage for the apps that need to work whether or not the internet does. Lately, the itch has shifted toward real-time systems at scale and figuring out where AI-assisted workflows actually earn their place in a serious dev process, rather than just being a novelty layered on top of it.
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ The Toolkit Behind It
 
 <p align="left">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -43,7 +41,9 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Where the Toolkit Shows Up
+
+None of that means much without something built, so here's where it's actually been put to work — four apps that between them cover real-time systems, offline-first storage, and API-driven UI, the same themes that run through the stats above.
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -54,7 +54,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 The Numbers, If You're Curious
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=codewithkhan07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shahzaib's GitHub Stats" />
@@ -69,9 +69,17 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codewithkhan07&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
+And a few trophies picked up along the way — mostly a byproduct of just showing up and committing consistently, but I'll take them:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codewithkhan07&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
 ---
 
-### 🤝 Connect with Me
+### 🤝 Let's Talk
+
+If any of this overlaps with something you're building — or you just want to talk Flutter architecture, server-driven UI, or where AI fits into a dev workflow without replacing the craft — I'm easy to find:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shahzaib-flutter-dev/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
