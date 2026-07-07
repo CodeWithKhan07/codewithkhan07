@@ -9,14 +9,13 @@
   <a href="https://www.linkedin.com/in/shahzaib-flutter-dev/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shahzaibkhan3356@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://shahzaib-khan-dev.vercel.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/CodeWithKhan07" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 📖 The Short Version
 
-I write Flutter code for a living, and I like it enough that I also write it for fun. Professionally, that means shipping **production-grade** apps end-to-end — concept to App Store — on a stack built around **Riverpod**, clean architecture, and enough SOLID discipline to keep a codebase sane six months later. Right now that's showing up at **Chimpgroup**, where I'm building **QDrive**, a vehicle rental platform on a fully server-driven UI (SDUI) system — entire screens live as JSON on the backend and the app just... renders whatever it's told, which cuts down App Store review cycles for every UI change.
+I write Flutter code for a living, and I like it enough that I also write it for fun. Professionally, that means shipping **production-grade** apps end-to-end — concept to App Store — on a stack built around **Riverpod**, clean architecture, and enough SOLID discipline to keep a codebase sane six months later. Right now that's showing up in server-driven UI systems for a mobility-platform app, where entire screens live as JSON on the backend and the app just... renders whatever it's told.
 
 Off the clock, my tool of choice flips to **GetX** — faster to prototype with, less ceremony, perfect for the personal projects where I want an idea working by the weekend instead of by the sprint. Between the two, I've ended up equally comfortable in whichever architecture a codebase actually needs, which turns out to be a more useful skill than being loyal to one framework.
 
@@ -42,31 +41,9 @@ That range is also what pulled me toward Firebase early on — Auth, Firestore, 
 
 ---
 
-### 💼 Experience
-
-```
-Flutter Developer  ·  Chimpgroup  ·  Rawalpindi, PK
-Jun 2026 — Present
-```
-> Building QDrive, a vehicle rental platform on a server-driven UI (SDUI) engine.
-> Audited and refactored the existing Flutter codebase (Riverpod, Hive, Auth0,
-> Stripe, Firebase), resolving translation-key mismatches across 5 language
-> files and a calendar bug caused by a JSON key naming conflict.
-
-```
-Flutter Developer  ·  EmergeSol Solutions  ·  Remote
-```
-> Sole Flutter developer shipping three production client apps: a multi-platform
-> video downloader, a media player, and a Mapbox-integrated Android navigation
-> app. Built a Chrome extension suite (Manifest V3) automating Facebook
-> Marketplace listings across Belgium, Netherlands, and Germany, using Firebase
-> Firestore as a shared-state backend.
-
----
-
 ### 🚀 Where the Toolkit Shows Up
 
-None of that means much without something built, so here's where it's actually been put to work — real projects that between them cover real-time systems, offline-first storage, and API-driven UI, the same themes that run through the stats above.
+None of that means much without something built, so here's where it's actually been put to work — four apps that between them cover real-time systems, offline-first storage, and API-driven UI, the same themes that run through the stats above.
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -107,7 +84,6 @@ If any of this overlaps with something you're building — or you just want to t
 <p align="left">
   <a href="https://www.linkedin.com/in/shahzaib-flutter-dev/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shahzaibkhan3356@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://shahzaib-khan-dev.vercel.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center">
